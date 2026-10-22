@@ -243,4 +243,4 @@ GitHub Actions workflow (`.github/workflows/deploy.yml`):
 
 ## License
 
-MIT
+[MIT](LICENSE)
